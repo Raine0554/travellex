@@ -6,6 +6,8 @@ Created by Lorraine Sanares and Zoe Elliot
 
 This dashboard was created as part of the VCE Data Analytics school-assessed task (SAT). In light of the COVID-19 pandemic's impact on travel, with the regulations and restrictions in place in 2022, we proposed the research question: "What are the common traits among countries that are the most suitable for travel, and how would this influence travelers when planning future overseas trips?" We collected and analysed data from various online repositories, applied data processing techniques using Excel and Tableau, and produced dynamic visualizations for our target audience. All stages of the project, including requirements, constraints, scope, and evaluation criteria, were documented in a comprehensive project report.
 
+The Tableau dashboard can be accessed [here](https://public.tableau.com/app/profile/lorraine.sanares/viz/Travellex/Besttime)
+
 Screenshots
 
 ![dash1](https://github.com/user-attachments/assets/9fbf6c62-ada6-4ea1-aa38-8d55c9496186)
