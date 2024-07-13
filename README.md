@@ -1,4 +1,4 @@
-# travellex
+# Travellex Dashboard
 
 Created by Lorraine Sanares and Zoe Elliot
 
