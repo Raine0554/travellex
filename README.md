@@ -8,7 +8,13 @@ This dashboard was created as part of the VCE Data Analytics school-assessed tas
 
 The Tableau dashboard can be accessed [here](https://public.tableau.com/app/profile/lorraine.sanares/viz/Travellex/Besttime)
 
-Screenshots
+## Documents
+
+[Scope and requirements](https://github.com/Raine0554/travellex/blob/main/SAT%20Scope%20and%20Requirements.docx)
+[Softward requirement specification](https://github.com/Raine0554/travellex/blob/main/SAT%20final.docx)
+[Tableau workbook](https://github.com/Raine0554/travellex/blob/main/Travellex.twbx)
+
+## Screenshots
 
 ![dash1](https://github.com/user-attachments/assets/9fbf6c62-ada6-4ea1-aa38-8d55c9496186)
 
@@ -17,6 +23,9 @@ Screenshots
 ![dash3](https://github.com/user-attachments/assets/c5c4ed9e-57c2-43b3-8b98-fe0b28cabf58)
 
 ![dash4](https://github.com/user-attachments/assets/d0fa7f68-4d1f-469b-aea8-2563efe57c5e)
+
+
+
 
 
 
